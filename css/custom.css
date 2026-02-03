@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'LXGWWenKai';
+  src: url('/fonts/LXGWWenKai-Regular.woff2') format('woff2');
+  font-display: swap;
+}
+
+body, .post-body, h1, h2, h3, h4, h5, h6, .post-title, .post-title a, .post-header, .post-meta, .post-meta span, .post-meta time {
+  font-family: 'LXGWWenKai', 'Noto Serif SC', 'Microsoft YaHei', sans-serif !important;
+}
+
+/* 修改 footer 为黑色 */
+#footer {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+
+#footer a {
+  color: #cccccc !important;
+}
+
+#footer a:hover {
+  color: #ffffff !important;
+}
