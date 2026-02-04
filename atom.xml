@@ -6,7 +6,7 @@
   <link href="https://hatsuyufei.github.io/atom.xml" rel="self"/>
   
   <link href="https://hatsuyufei.github.io/"/>
-  <updated>2026-02-03T11:58:47.456Z</updated>
+  <updated>2026-02-04T10:59:42.909Z</updated>
   <id>https://hatsuyufei.github.io/</id>
   
   <author>
@@ -15,6 +15,77 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自动更新修改日期</title>
+    <link href="https://hatsuyufei.github.io/posts/270874779328512.html"/>
+    <id>https://hatsuyufei.github.io/posts/270874779328512.html</id>
+    <published>2026-02-04T09:49:35.000Z</published>
+    <updated>2026-02-04T10:59:42.909Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="后端" scheme="https://hatsuyufei.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+    <category term="MyBatisPlus" scheme="https://hatsuyufei.github.io/tags/MyBatisPlus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用户密码加密</title>
+    <link href="https://hatsuyufei.github.io/posts/270816817389568.html"/>
+    <id>https://hatsuyufei.github.io/posts/270816817389568.html</id>
+    <published>2026-02-04T05:54:46.000Z</published>
+    <updated>2026-02-04T08:28:52.203Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="后端" scheme="https://hatsuyufei.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>手动创建后端项目</title>
+    <link href="https://hatsuyufei.github.io/posts/270768891047936.html"/>
+    <id>https://hatsuyufei.github.io/posts/270768891047936.html</id>
+    <published>2026-02-04T02:37:46.000Z</published>
+    <updated>2026-02-04T06:33:05.965Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="后端" scheme="https://hatsuyufei.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>雪花算法生成id</title>
