@@ -6,7 +6,7 @@
   <link href="https://hatsuyufei.github.io/atom.xml" rel="self"/>
   
   <link href="https://hatsuyufei.github.io/"/>
-  <updated>2026-02-04T11:02:10.604Z</updated>
+  <updated>2026-02-05T09:23:28.050Z</updated>
   <id>https://hatsuyufei.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SpringBoot通用工具合集</title>
+    <link href="https://hatsuyufei.github.io/posts/271221202051072.html"/>
+    <id>https://hatsuyufei.github.io/posts/271221202051072.html</id>
+    <published>2026-02-05T08:13:10.000Z</published>
+    <updated>2026-02-05T09:23:28.050Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="后端" scheme="https://hatsuyufei.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+    <category term="SpringBoot通用工具" scheme="https://hatsuyufei.github.io/tags/SpringBoot%E9%80%9A%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>自动更新修改日期</title>
